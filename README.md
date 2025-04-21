@@ -28,7 +28,8 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images\customer_segmentation.png" alt="Customer Segmentation" width="50%">
+<img src="images\customer_segmentation.png" alt="Customer Segmentation" width="80%">
+<a href="https://public.tableau.com/views/COntoso_customer_segmentation/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">🔗 View the Interactive Tableau Dashboard</a>
 
 📊 **Key Takeaways:**
 - High-value group (top 25%) contributes the majority share of revenue at 66% ($135.4M)  
@@ -49,7 +50,8 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images\cohort_analysis_final.png" alt="Customer Revenue Normalized" width="50%">
+<img src="images\cohort_analysis_final.png" alt="Customer Revenue Normalized" width="80%">
+<a href="https://public.tableau.com/views/Contoso_cohort_analysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">🔗 View the Interactive Tableau Dashboard</a>
 
 
 📊 **Key Findings:**  
@@ -71,8 +73,8 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images\churn_analysis.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
-[🔗 View the Interactive Tableau Dashboard](https://public.tableau.com/views/Total_customer_retention_churn_per_cohort/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img src="images\churn_analysis.png" alt="Customer Churn by Cohort Year" style="width: 80%; height: auto;">
+<a href="https://public.tableau.com/views/Total_customer_retention_churn_per_cohort/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">🔗 View the Interactive Tableau Dashboard</a>
 
 📊 **Key Findings:**  
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.  
